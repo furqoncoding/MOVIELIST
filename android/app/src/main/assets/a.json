@@ -1,0 +1,20 @@
+
+
+  {
+    "merchant_name": "Warung Sejahtera",
+    "nama_sender": "Furqon Muchammad",
+    "tgl_hbd_sender": "2018-03-07",
+    "id_number_sender": "18231",
+    "phone_number_sender": "02212121",
+
+    "name_beneficiary": "JULIANTO WIBOWO",
+    "id_number_beneficiary": "2132132123",
+    "tgl_hbd_beneficiary": "1992-08-09",
+    "phone_number_beneficiary": "08191929",
+    "address_beneficiary": "Jl.aLalalal",
+    "account_bank_beneficiary": "JULIANTO WBW",
+    "bank_account_beneficiary": "123456515151",
+    "bank_name_beneficiary": "Maybank Ind",
+    "rate_hkd_to_idr": "1783.00"
+
+  }

@@ -1,0 +1,115 @@
+apply plugin: "com.android.application"
+//apply plugin: 'com.google.gms.google-services'
+
+import com.android.build.OutputFile
+
+project.ext.react = [
+        entryFile: "index.js"
+]
+
+apply from: "../../node_modules/react-native/react.gradle"
+
+def enableSeparateBuildPerCPUArchitecture = false
+
+def enableProguardInReleaseBuilds = false
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion '28.0.3'
+
+    defaultConfig {
+
+        multiDexEnabled true
+
+        missingDimensionStrategy 'react-native-camera', 'general'
+
+        applicationId "com.kobe.listmov"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+        versionCode 1
+        versionName "1.0.0"
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+    }
+    splits {
+        abi {
+            reset()
+            enable enableSeparateBuildPerCPUArchitecture
+            universalApk false  // If true, also generate a universal APK
+            include "armeabi-v7a", "x86"
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled enableProguardInReleaseBuilds
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+        }
+    }
+    // applicationVariants are e.g. debug, release
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            // For each separate APK per architecture, set a unique version code as described here:
+            // http://tools.android.com/tech-docs/new-build-system/user-guide/apk-splits
+            def versionCodes = ["armeabi-v7a":1, "x86":2]
+            def abi = output.getFilter(OutputFile.ABI)
+            if (abi != null) {  // null for the universal-debug, universal-release variants
+                output.versionCodeOverride =
+                        versionCodes.get(abi) * 1048576 + defaultConfig.versionCode
+            }
+        }
+    }
+}
+
+dependencies {
+    compile project(':react-native-video')
+    compile project(':react-native-sketch-draw')
+    compile project(':react-native-vector-icons')
+    compile project(':react-native-printer')
+    compile project(':react-native-linear-gradient')
+    compile project(':react-native-date-picker')
+    compile project(':react-native-admob')
+    compile project(':@react-native-picker_picker')
+    compile project(':react-native-geolocation-service')
+    compile project(':react-native-exit-app')
+    compile project(':react-native-android-location-services-dialog-box')
+    compile project(':react-native-background-timer')
+    compile project(':react-native-background-actions')
+    compile project(':react-native-permissions')
+    compile project(':@react-native-community_datetimepicker')
+    compile project(':react-native-safe-area-context')
+    implementation project(path: ':react-native-maps')
+    compile project(':@react-native-community_toolbar-android')
+    compile project(':@react-native-community_geolocation')
+    compile project(':@react-native-async-storage_async-storage')
+    compile project(':react-native-image-picker')
+    compile project(':react-native-camera')
+    compile project(':react-native-view-shot')
+    compile project(':react-native-fetch-blob')
+    compile project(':react-native-image-base64')
+
+    compile 'com.facebook.fresco:fresco:1.+'
+    compile 'com.facebook.fresco:animated-gif:1.+'
+
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    implementation files('libs/ZQPrinter1.2.2.jar')
+
+    implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
+    implementation "com.facebook.react:react-native:+"  // From node_modules
+    implementation 'com.google.android.gms:play-services-auth:16.0.1'
+
+    implementation 'com.android.support:multidex:1.0.3'
+
+
+//    implementation platform('com.google.firebase:firebase-bom:29.2.1')
+//    implementation 'com.google.firebase:firebase-analytics'
+}
+
+task copyDownloadableDepsToLibs(type: Copy) {
+    from configurations.compile
+    into 'libs'
+}

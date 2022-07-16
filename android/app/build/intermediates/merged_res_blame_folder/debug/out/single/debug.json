@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_pack_1.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_pack_1.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kobe1.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kobe1.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logouts.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logouts.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kb.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kb.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contacts_megha.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contacts_megha.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_diskusi.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_diskusi.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contoh_gambar_mesin.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contoh_gambar_mesin.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kobelogo.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kobelogo.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_bluetooth.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\select_bluetooth.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_didcard.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_didcard.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kobe.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kobe.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logout2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logout2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_assets_glow2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xhdpi\\assets_glow2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kobe2.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kobe2.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigationstack_dist_views_assets_backiconmask.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tes.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\tes.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logoutt.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logoutt.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_outlog.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_outlog.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_print.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_print.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logouticon.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logouticon.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativetimedslideshow_src_close.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativetimedslideshow_src_close.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_scan.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_scan.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_background.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_background.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_gc.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_gc.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_5.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_5.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_profil.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_profil.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kobe3.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kobe3.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeelements_src_rating_images_heart.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_heart.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_loading_cart.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_loading_cart.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_ddocument.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_ddocument.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_pack_3.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_pack_3.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_print.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_print.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_data_view.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_data_view.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_print.JPG.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable\\icon_print.JPG"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_dfoto.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_dfoto.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_button_bank_tf.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_button_bank_tf.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_kesasar.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_kesasar.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_diskusi2.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_diskusi2.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_printer_listitem.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\printer_listitem.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contacts_pratik.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contacts_pratik.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zm.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable\\zm.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeelements_src_rating_images_star.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_star.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logozm_print_struk.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logozm_print_struk.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_scaninsert.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_scaninsert.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_print.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_print.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_assets_logozm.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable\\assets_logozm.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_loading.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_loading.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logozm.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logozm.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_bgg.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_bgg.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_assets_glow2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxhdpi\\assets_glow2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_barcode.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_barcode.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contacts_varun.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contacts_varun.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_printer_list.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\menu\\menu_printer_list.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_show_data.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_show_data.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_print.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_print.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_petunjuk2.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_petunjuk2.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_icon2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_icon2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_loader.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_loader.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_pe_1.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_pe_1.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_3.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_3.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativedatepicker_date_icon.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativedatepicker_date_icon.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_print_image.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable\\print_image.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_photo.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_photo.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logo_username.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logo_username.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contoh_gambar_sesuai.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contoh_gambar_sesuai.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_berat_contoh.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_berat_contoh.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contacts_saurav.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contacts_saurav.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_pe_2.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_pe_2.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_printicon.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_printicon.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_case_close.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_case_close.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_button_zsmart.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_button_zsmart.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_dribbble_2.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_dribbble_2.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_back.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_back.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_glow2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_glow2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_qr.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_qr.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_homeicon.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_homeicon.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_transfericon.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_transfericon.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_pe_3.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_pe_3.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_login_bg.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_login_bg.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_pack_4.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_pack_4.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_data.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_data.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_printpreview.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\menu\\menu_printpreview.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_user.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_user.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logo.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logo.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_1.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_1.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_background_home.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_background_home.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contacts_sanket.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contacts_sanket.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_proses_1.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_proses_1.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_tasktask.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_tasktask.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bluetooth_device_list.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\bluetooth_device_list.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_pecadoc.gif.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_pecadoc.gif"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bluetooth_device_name.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\bluetooth_device_name.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_back_login.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_back_login.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_4.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_4.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_clearance_pack_2.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_clearance_pack_2.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativetimedslideshow_src_arrow.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativetimedslideshow_src_arrow.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_print.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_print.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_contacts_atul.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_contacts_atul.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeelements_src_rating_images_bell.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_bell.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_logo_password.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_logo_password.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_pe_4.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_pe_4.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_scanqr.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_scanqr.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_bg_register.jpg.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_bg_register.jpg"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_assets_create_data2.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\assets_create_data2.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativeelements_src_rating_images_rocket.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativeelements_src_rating_images_rocket.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_screens_kobe_project_manisproses_contoh.png.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\drawable-mdpi\\src_screens_kobe_project_manisproses_contoh.png"
+    },
+    {
+        "merged": "C:\\TESKLINK\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\TESKLINK\\android\\app\\src\\main\\res\\layout\\device_list.xml"
+    }
+]

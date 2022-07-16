@@ -1,0 +1,258 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kobe.listmov"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:7:5-78
+12-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:7:22-75
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:8:5-68
+13-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:8:22-65
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+14-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:9:5-74
+14-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:9:22-71
+15
+16    <permission
+16-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:11:5-13:37
+17        android:name="android.permission.BLUETOOTH"
+17-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:12:9-52
+18        android:label="BLUETOOTH" />
+18-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:13:9-34
+19    <permission android:name="android.permission.BLUETOOTH_ADMIN" />
+19-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:14:5-69
+19-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:14:17-66
+20
+21    <uses-permission android:name="android.permission.CAMERA" />
+21-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:16:5-65
+21-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:16:22-62
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:17:5-81
+22-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:17:22-78
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:18:5-80
+23-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:18:22-77
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:6:5-67
+24-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:6:22-64
+25    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+25-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:20:5-81
+25-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:20:22-78
+26    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+26-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:21:5-79
+26-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:21:22-76
+27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+27-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:22:5-76
+27-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:22:22-73
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:23:5-79
+28-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:23:22-76
+29    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+29-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:17:5-81
+29-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:17:22-78
+30    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+30-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:18:5-80
+30-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:18:22-77
+31    <uses-permission android:name="android.permission.CAMERA" />
+31-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:16:5-65
+31-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:16:22-62
+32
+33    <uses-feature android:name="android.hardware.camera" />
+33-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:28:5-60
+33-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:28:19-57
+34    <uses-feature android:name="android.hardware.camera.autofocus" />
+34-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:29:5-70
+34-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:29:19-67
+35
+36    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+36-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:31:5-85
+36-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:31:22-82
+37
+38    <uses-feature
+38-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:33:5-35:35
+39        android:glEsVersion="0x00020000"
+39-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:34:9-41
+40        android:required="true" />
+40-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:35:9-32
+41
+42    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+42-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:37:5-77
+42-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:37:22-74
+43    <uses-permission android:name="android.permission.WAKE_LOCK" />
+43-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:38:5-68
+43-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:38:22-65
+44    <uses-permission android:name="android.permission.VIBRATE" />
+44-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:39:5-66
+44-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:39:22-63
+45    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+45-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:21:5-79
+45-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:21:22-76
+46    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+46-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:20:5-81
+46-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:20:22-78
+47    <uses-permission android:name="android.hardware.usb.UsbAccessory" />
+47-->[:react-native-printer] C:\TESKLINK\node_modules\react-native-printer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-73
+47-->[:react-native-printer] C:\TESKLINK\node_modules\react-native-printer\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-70
+48    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+49
+50    <application
+50-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:44:5-89:19
+51        android:name="com.kobe.listmov.MainApplication"
+51-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:45:9-40
+52        android:allowBackup="false"
+52-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:46:9-36
+53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+53-->[androidx.core:core:1.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\4fa96a30a609219e9d73eea686ac383a\core-1.0.0\AndroidManifest.xml:22:18-86
+54        android:debuggable="true"
+55        android:icon="@drawable/assets_dfoto"
+55-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:47:9-46
+56        android:label="Movie List"
+56-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:48:9-35
+57        android:networkSecurityConfig="@xml/network_security_config"
+57-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:51:9-69
+58        android:theme="@style/AppTheme"
+58-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:49:9-40
+59        android:usesCleartextTraffic="true" >
+59-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:50:9-44
+60        <meta-data
+60-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:55:9-57:63
+61            android:name="com.google.android.actions"
+61-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:56:13-54
+62            android:resource="@xml/network_security_config" />
+62-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:57:13-60
+63
+64        <service android:name="com.asterinet.react.bgactions.RNBackgroundActionsTask" />
+64-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:59:9-89
+64-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:59:18-86
+65
+66        <meta-data
+66-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:61:9-63:71
+67            android:name="com.google.android.geo.API_KEY"
+67-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:62:13-58
+68            android:value="AIzaSyCEXEyR49W9zF0P_fPLPMxvKwO_7jCdhzM" />
+68-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:63:13-68
+69
+70        <uses-library
+70-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:65:9-67:40
+71            android:name="org.apache.http.legacy"
+71-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:66:13-50
+72            android:required="false" />
+72-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:67:13-37
+73
+74        <activity
+74-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:69:9-79:20
+75            android:name="com.kobe.listmov.MainActivity"
+75-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:70:13-41
+76            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+76-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:71:13-83
+77            android:label="Movie List"
+77-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:72:13-39
+78            android:windowSoftInputMode="adjustResize" >
+78-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:73:13-55
+79            <intent-filter>
+79-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:74:13-78:29
+80                <action android:name="android.intent.action.MAIN" />
+80-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:75:17-69
+80-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:75:25-66
+81
+82                <category android:name="android.intent.category.LAUNCHER" />
+82-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:77:17-77
+82-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:77:27-74
+83            </intent-filter>
+84        </activity>
+85        <activity android:name="com.kobe.listmov.printingutils.DeviceListActivity" />
+85-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:80:9-70
+85-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:80:19-67
+86        <activity android:name="com.kobe.listmov.printingutils.BTDeviceList" />
+86-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:81:9-64
+86-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:81:19-61
+87        <activity android:name="com.kobe.listmov.DeviceListMainActivity" />
+87-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:82:9-60
+87-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:82:19-57
+88
+89        <meta-data
+89-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:84:9-86:69
+90            android:name="com.google.android.gms.ads.APPLICATION_ID"
+90-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:85:13-69
+91            android:value="ca-app-pub-6937370840869343~1214485498" />
+91-->C:\TESKLINK\android\app\src\main\AndroidManifest.xml:86:13-67
+92
+93        <provider
+93-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+94            android:name="com.imagepicker.FileProvider"
+94-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+95            android:authorities="com.kobe.listmov.provider"
+95-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+96            android:exported="false"
+96-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+97            android:grantUriPermissions="true" >
+97-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+98            <meta-data
+98-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+99                android:name="android.support.FILE_PROVIDER_PATHS"
+99-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+100                android:resource="@xml/provider_paths" />
+100-->[:react-native-image-picker] C:\TESKLINK\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+101        </provider>
+102
+103        <activity
+103-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+104            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+104-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+105            android:excludeFromRecents="true"
+105-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+106            android:exported="false"
+106-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+107            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+107-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+108        <!--
+109            Service handling Google Sign-In user revocation. For apps that do not integrate with
+110            Google Sign-In, this service will never be started.
+111        -->
+112        <service
+112-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+113            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+113-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+114            android:exported="true"
+114-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+115            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+115-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\fa3b361471738d8142c09a57805e2bd3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+116
+117        <activity
+117-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+118            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+118-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+119            android:exported="false"
+119-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+120-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\4858ba8f6e273fdf2dcb9d88023c9534\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+121        <activity
+121-->[com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\350baacfd075c8132e4e60acb648562b\jetified-play-services-ads-lite-16.0.0\AndroidManifest.xml:29:9-33:64
+122            android:name="com.google.android.gms.ads.AdActivity"
+122-->[com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\350baacfd075c8132e4e60acb648562b\jetified-play-services-ads-lite-16.0.0\AndroidManifest.xml:30:13-65
+123            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+123-->[com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\350baacfd075c8132e4e60acb648562b\jetified-play-services-ads-lite-16.0.0\AndroidManifest.xml:31:13-122
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\350baacfd075c8132e4e60acb648562b\jetified-play-services-ads-lite-16.0.0\AndroidManifest.xml:32:13-37
+125            android:theme="@android:style/Theme.Translucent" />
+125-->[com.google.android.gms:play-services-ads-lite:16.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\350baacfd075c8132e4e60acb648562b\jetified-play-services-ads-lite-16.0.0\AndroidManifest.xml:33:13-61
+126
+127        <meta-data
+127-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\f46279d3478497538e817a8da381f082\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+128            android:name="com.google.android.gms.version"
+128-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\f46279d3478497538e817a8da381f082\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+129            android:value="@integer/google_play_services_version" />
+129-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\furqo\.gradle\caches\transforms-2\files-2.1\f46279d3478497538e817a8da381f082\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+130    </application>
+131
+132</manifest>

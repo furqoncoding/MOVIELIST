@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LISTMOV.iml" filepath="$PROJECT_DIR$/.idea/modules/LISTMOV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-533427924/LISTMOV.@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-533427924/LISTMOV.@react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/981696680/LISTMOV.@react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/981696680/LISTMOV.@react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1871210169/LISTMOV.@react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1871210169/LISTMOV.@react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/413361630/LISTMOV.@react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/413361630/LISTMOV.@react-native-community_toolbar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/269701526/LISTMOV.@react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/269701526/LISTMOV.@react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LISTMOV.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LISTMOV.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-960806298/LISTMOV.react-native-admob.iml" filepath="$PROJECT_DIR$/.idea/modules/-960806298/LISTMOV.react-native-admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1303703634/LISTMOV.react-native-android-location-services-dialog-box.iml" filepath="$PROJECT_DIR$/.idea/modules/1303703634/LISTMOV.react-native-android-location-services-dialog-box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1059215531/LISTMOV.react-native-background-actions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1059215531/LISTMOV.react-native-background-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-663733347/LISTMOV.react-native-background-timer.iml" filepath="$PROJECT_DIR$/.idea/modules/-663733347/LISTMOV.react-native-background-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2004473188/LISTMOV.react-native-camera.iml" filepath="$PROJECT_DIR$/.idea/modules/-2004473188/LISTMOV.react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1562044214/LISTMOV.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1562044214/LISTMOV.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888555945/LISTMOV.react-native-exit-app.iml" filepath="$PROJECT_DIR$/.idea/modules/888555945/LISTMOV.react-native-exit-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1635543097/LISTMOV.react-native-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-1635543097/LISTMOV.react-native-fetch-blob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-932181097/LISTMOV.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/-932181097/LISTMOV.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1016762424/LISTMOV.react-native-image-base64.iml" filepath="$PROJECT_DIR$/.idea/modules/1016762424/LISTMOV.react-native-image-base64.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-819704713/LISTMOV.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-819704713/LISTMOV.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1330880769/LISTMOV.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1330880769/LISTMOV.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/416479428/LISTMOV.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/416479428/LISTMOV.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/827642157/LISTMOV.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/827642157/LISTMOV.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2100708541/LISTMOV.react-native-printer.iml" filepath="$PROJECT_DIR$/.idea/modules/-2100708541/LISTMOV.react-native-printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/954959256/LISTMOV.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/954959256/LISTMOV.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1037501842/LISTMOV.react-native-sketch-draw.iml" filepath="$PROJECT_DIR$/.idea/modules/-1037501842/LISTMOV.react-native-sketch-draw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/805562695/LISTMOV.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/805562695/LISTMOV.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1048835300/LISTMOV.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/1048835300/LISTMOV.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-941900277/LISTMOV.react-native-view-shot.iml" filepath="$PROJECT_DIR$/.idea/modules/-941900277/LISTMOV.react-native-view-shot.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+com/asterinet/react/bgactions/BuildConfig.java
+ com.asterinet.react.bgactions.BuildConfig
+com/asterinet/react/bgactions/BackgroundTaskOptions.java
+ com.asterinet.react.bgactions.BackgroundTaskOptions
+com/asterinet/react/bgactions/BackgroundActionsModule.java
+ com.asterinet.react.bgactions.BackgroundActionsModule
+com/asterinet/react/bgactions/BackgroundActionsPackage.java
+ com.asterinet.react.bgactions.BackgroundActionsPackage
+com/asterinet/react/bgactions/RNBackgroundActionsTask.java
+ com.asterinet.react.bgactions.RNBackgroundActionsTask
