@@ -5,7 +5,7 @@ import { TabNavigator } from "react-navigation";
 import Spinner from "../../screens/Spinner/";
 import styles from "./styles";
 
-import ITEMS from "../../screens/KLINK/ITEMS";
+import ITEMS from "../../screens/MAIN/ITEMS";
 
 import FontAwesomeIcon from 'react-native-vector-icons/FontAwesome';
 

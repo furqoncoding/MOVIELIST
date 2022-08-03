@@ -6,7 +6,7 @@ import { Root } from "native-base";
 import FooterTabNavigation from "./components/Footer/tabNavigation";
 
 
-import ITEMS from "./screens/KLINK/ITEMS";
+import ITEMS from "./screens/MAIN/ITEMS";
 
 
 import { NativeModules } from "react-native";
@@ -40,8 +40,6 @@ const App = StackNavigator(
   {
     index: 0,
     initialRouteName: "ITEMS",
-    // initialRouteName: "TES",
-    // initialRouteName: "load",
     headerMode: "none"
   }
 

@@ -756,7 +756,11 @@ drawable assets_kobe3
 drawable assets_kobelogo
 drawable assets_loader
 drawable assets_loading
+drawable assets_loading5
+drawable assets_loading8
 drawable assets_loading_cart
+drawable assets_loadingloading
+drawable assets_loadings
 drawable assets_login_bg
 drawable assets_logo
 drawable assets_logo_password

@@ -9,7 +9,7 @@
   dependencies:
     "@babel/highlight" "^7.0.0"
 
-"@babel/core@^7.0.0":
+"@babel/core@^7.0.0", "@babel/core@^7.0.0-0":
   "integrity" "sha512-Hz6PJT6e44iUNpAn8AoyAs6B3bl60g7MJQaI0rZEar6ECzh6+srYO1xlIdssio34mPaUtAb1y+XlkkSJzok3yw=="
   "resolved" "https://registry.npmjs.org/@babel/core/-/core-7.1.6.tgz"
   "version" "7.1.6"
@@ -697,7 +697,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     "fastq" "^1.6.0"
 
-"@popperjs/core@^2.6.0":
+"@popperjs/core@^2.0.0", "@popperjs/core@^2.10.2", "@popperjs/core@^2.6.0":
   "integrity" "sha512-9X2obfABZuDVLCgPK9aX0a/x4jaOEweTTWE2+9sr0Qqqevj2Uv5XorvusThmc9XGYpS9yI+fhh8RTafBtGposw=="
   "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.11.5.tgz"
   "version" "2.11.5"
@@ -728,12 +728,12 @@
   "resolved" "https://registry.npmjs.org/@react-native-community/geolocation/-/geolocation-2.0.2.tgz"
   "version" "2.0.2"
 
-"@react-native-community/toolbar-android@0.1.0-rc.2":
+"@react-native-community/toolbar-android@^0.1.0-rc.1", "@react-native-community/toolbar-android@0.1.0-rc.2":
   "integrity" "sha512-UCblqsitOcoYxVc6QzcaqCKogeRnePPMw7cbGvW5GI/GXIwQel8Kge9d910W3MUPUzw3pFzhIZVug6U3W067Pg=="
   "resolved" "https://registry.npmjs.org/@react-native-community/toolbar-android/-/toolbar-android-0.1.0-rc.2.tgz"
   "version" "0.1.0-rc.2"
 
-"@react-native-picker/picker@^1.12.0":
+"@react-native-picker/picker@^1.12.0", "@react-native-picker/picker@1":
   "integrity" "sha512-LxtFcuQ/jxsNwH9byM4mMSusqGfaj0LHXTh6fJgvIKOBjAWwV+FjWHszQSPCbnycdezirf8dFLhF9phcNuE8CA=="
   "resolved" "https://registry.npmjs.org/@react-native-picker/picker/-/picker-1.12.0.tgz"
   "version" "1.12.0"
@@ -1162,7 +1162,7 @@
     "esutils" "^2.0.2"
     "js-tokens" "^3.0.2"
 
-"babel-core@^6.0.0", "babel-core@^6.26.0":
+"babel-core@^6.0.0", "babel-core@^6.0.0 || ^7.0.0-0", "babel-core@^6.26.0":
   "integrity" "sha512-6jyFLuDmeidKmUEb3NM+/yawG0M2bDZ9Z1qbZP59cyHLz8kYGKYwpJP0UwUKKUiTRNvxfLesJnTedqczP7cTDA=="
   "resolved" "https://registry.npmjs.org/babel-core/-/babel-core-6.26.3.tgz"
   "version" "6.26.3"
@@ -2661,7 +2661,7 @@
   dependencies:
     "expo-core" "~1.2.0"
 
-"expo-font@~1.1.0":
+"expo-font@^1.0.0", "expo-font@~1.1.0":
   "integrity" "sha512-7zzynnRTSDe0q/ZbUNf17kVgQvE+TQ+hx+5F/aFuy6/F63OotbFkigMqqRlvGJAxcxo+oS9idDTSB3ajxWcezw=="
   "resolved" "https://registry.npmjs.org/expo-font/-/expo-font-1.1.0.tgz"
   "version" "1.1.0"
@@ -5983,7 +5983,7 @@
   "resolved" "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
   "version" "4.2.0"
 
-"postcss@^8.4.12", "postcss@^8.4.6":
+"postcss@^8.2.14", "postcss@^8.3.3", "postcss@^8.4.12", "postcss@^8.4.6", "postcss@>=8.0.9":
   "integrity" "sha512-lg6eITwYe9v6Hr5CncVbK70SoioNQIq81nsaG86ev5hAidQvmOeETBqs7jm43K2F5/Ley3ytDtriImV6TpNiSg=="
   "resolved" "https://registry.npmjs.org/postcss/-/postcss-8.4.12.tgz"
   "version" "8.4.12"
@@ -6065,7 +6065,7 @@
     "kleur" "^2.0.1"
     "sisteransi" "^0.1.1"
 
-"prop-types@^15.5.10", "prop-types@^15.5.8", "prop-types@^15.6.0", "prop-types@^15.6.1", "prop-types@^15.6.2", "prop-types@^15.7.2":
+"prop-types@^15.0 || ^16.0", "prop-types@^15.0.0", "prop-types@^15.5.10", "prop-types@^15.5.8", "prop-types@^15.6.0", "prop-types@^15.6.1", "prop-types@^15.6.2", "prop-types@^15.7.2":
   "integrity" "sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg=="
   "resolved" "https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz"
   "version" "15.8.1"
@@ -6172,7 +6172,7 @@
     "shell-quote" "^1.6.1"
     "ws" "^3.3.1"
 
-"react-dom@^18.0.0":
+"react-dom@^18.0.0", "react-dom@>=16.6.0", "react-dom@>=16.8.0":
   "integrity" "sha512-XqX7uzmFo0pUceWFCt7Gff6IyIMzFUn7QMZrbrQfGxtaxXZIcGQzoNpRLE3fQLnS4XzLLPMZX2T9TRcSrasicw=="
   "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-18.0.0.tgz"
   "version" "18.0.0"
@@ -6219,6 +6219,11 @@
   "resolved" "https://registry.npmjs.org/react-native-android-location-services-dialog-box/-/react-native-android-location-services-dialog-box-2.8.2.tgz"
   "version" "2.8.2"
 
+"react-native-app-intro-slider@^4.0.4":
+  "integrity" "sha512-Zkjaol6X3BbZkHUpVDj2LjdidpS6rCgKi0fx80xgGKa0pHxBRd4swWTv2bHnnvu5k1/HXwYk0mY2TbK+2jHl5w=="
+  "resolved" "https://registry.npmjs.org/react-native-app-intro-slider/-/react-native-app-intro-slider-4.0.4.tgz"
+  "version" "4.0.4"
+
 "react-native-background-actions@^2.6.0":
   "integrity" "sha512-CVUUmuYLVF1e2pFotKWZJi0u8C47U5lQ+KNNqJH8TqMgTLUX+7LyJq4N6a/6Bq1DjpwMTj+pZFAb4LGa0qiLvA=="
   "resolved" "https://registry.npmjs.org/react-native-background-actions/-/react-native-background-actions-2.6.0.tgz"
@@ -6246,7 +6251,7 @@
     "prop-types" "^15.5.10"
     "xdate" "^0.8.0"
 
-"react-native-camera@^3.40.0":
+"react-native-camera@^3.40.0", "react-native-camera@>=1.0.2":
   "integrity" "sha512-Ur0hZqZcl3SntTVMB9GxuiLYpQxqwgzhQVb+7EGae4WjfDzQEwlGF0bJ7UpZyeUTb1oZmsiSib58xUckn11XMw=="
   "resolved" "https://registry.npmjs.org/react-native-camera/-/react-native-camera-3.40.0.tgz"
   "version" "3.40.0"
@@ -6462,7 +6467,7 @@
   "resolved" "https://registry.npmjs.org/react-native-reanimated/-/react-native-reanimated-1.0.0-alpha.10.tgz"
   "version" "1.0.0-alpha.10"
 
-"react-native-safe-area-context@^3.2.0":
+"react-native-safe-area-context@*", "react-native-safe-area-context@^3.2.0":
   "integrity" "sha512-k2Nty4PwSnrg9HwrYeeE+EYqViYJoOFwEy9LxL5RIRfoqxAq/uQXNGwpUg2/u4gnKpBbEPa9eRh15KKMe/VHkA=="
   "resolved" "https://registry.npmjs.org/react-native-safe-area-context/-/react-native-safe-area-context-3.2.0.tgz"
   "version" "3.2.0"
@@ -6488,7 +6493,7 @@
   dependencies:
     "dedent" "^0.6.0"
 
-"react-native-screens@^1.0.0-alpha.11":
+"react-native-screens@^1.0.0 || ^1.0.0-alpha", "react-native-screens@^1.0.0-alpha.11":
   "integrity" "sha512-t+/aq5jQa+Is6afiQHa1P+2UPnwPGY9NT0pSqNr2zQ5llCn8TcPq6GN8xDMuEc08g+y/9R5zWo32hlVStwWn1A=="
   "resolved" "https://registry.npmjs.org/react-native-screens/-/react-native-screens-1.0.0-alpha.16.tgz"
   "version" "1.0.0-alpha.16"
@@ -6574,7 +6579,7 @@
   "resolved" "https://registry.npmjs.org/react-native-timed-slideshow/-/react-native-timed-slideshow-1.2.1.tgz"
   "version" "1.2.1"
 
-"react-native-vector-icons@^6.0.2":
+"react-native-vector-icons@^4.2.0", "react-native-vector-icons@^6.0.2":
   "integrity" "sha512-LKdwqDIGVxV1+4HnmFIPaok9hba3WyTQ7H2Wj5RFv54zIdIjixrAiV9VD/Ej9Mc5/rUhTpmMiIVF3LVmVYD7dg=="
   "resolved" "https://registry.npmjs.org/react-native-vector-icons/-/react-native-vector-icons-6.7.0.tgz"
   "version" "6.7.0"
@@ -6634,7 +6639,7 @@
   "resolved" "https://registry.npmjs.org/react-native-view-shot/-/react-native-view-shot-2.5.0.tgz"
   "version" "2.5.0"
 
-"react-native@0.57.5":
+"react-native@*", "react-native@^0.44.1", "react-native@^0.57.1", "react-native@^0.60.6 || ^0.61.5 || ^0.62.2 || ^0.63.2 || ^0.64.0 || 1000.0.0", "react-native@>= 0.25", "react-native@>= 0.50.0", "react-native@>= 0.51", "react-native@>= 0.56.0", "react-native@>=0.38.0", "react-native@>=0.40.0", "react-native@>=0.42.0", "react-native@>=0.43.0", "react-native@>=0.44.0", "react-native@>=0.46", "react-native@>=0.47.0", "react-native@>=0.48.4", "react-native@>=0.50.0", "react-native@>=0.56.0", "react-native@>=0.57", "react-native@>=0.59", "react-native@>=0.60", "react-native@>=0.60.0", "react-native@>=0.63.3", "react-native@0.57.5":
   "integrity" "sha512-b/RNXcifPr4CrYZEAWmyD+W//KWZkEO4p6/TOZmLPP4M+vkqWqt0wmSW6JWn1bTEeZmRjx1JJZeVtYmtIVl/KA=="
   "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.57.5.tgz"
   "version" "0.57.5"
@@ -6721,7 +6726,7 @@
     "react-lifecycles-compat" "^3.0.4"
     "react-native-tab-view" "^1.0.0"
 
-"react-navigation@^2.18.2":
+"react-navigation@*", "react-navigation@^2.0.0", "react-navigation@^2.18.2", "react-navigation@>=2.0 || ^2.0.0-beta":
   "integrity" "sha512-H9hkuC+Fyav/zlss4PU8XRjgBPMKXG9uudT7PSAaRi4kuRkGb77OJDZHBW6Vm9QPF9tAKK95AhaS1mbecLM8Yw=="
   "resolved" "https://registry.npmjs.org/react-navigation/-/react-navigation-2.18.2.tgz"
   "version" "2.18.2"
@@ -6755,7 +6760,7 @@
     "lodash" "^4.6.1"
     "react-deep-force-update" "^1.0.0"
 
-"react-redux@^5.1.1":
+"react-redux@^4.3.0 || ^5.0.0", "react-redux@^5.1.1":
   "integrity" "sha512-LE7Ned+cv5qe7tMV5BPYkGQ5Lpg8gzgItK07c67yHvJ8t0iaD9kPFPAli/mYkiyJYrs2pJgExR2ZgsGqlrOApg=="
   "resolved" "https://registry.npmjs.org/react-redux/-/react-redux-5.1.1.tgz"
   "version" "5.1.1"
@@ -6809,7 +6814,7 @@
     "raf" "^3.1.0"
     "tween-functions" "^1.0.1"
 
-"react@^16.14.0":
+"react@*", "react@^0.14.0 || ^15.0.0 || ^16.0.0", "react@^0.14.0 || ^15.0.0-0 || ^16.0.0-0", "react@^15.0.0-0 || ^16.0.0-0", "react@^16.0", "react@^16.0.0", "react@^16.14.0", "react@^16.8", "react@^16.8.0 || ^17", "react@^16.8.0 || ^17 || ^18", "react@^18.0.0", "react@> 15.0.0", "react@>= 16.0 || < 17.0", "react@>=14.x", "react@>=15.0.0", "react@>=16.0.0-alpha.3", "react@>=16.13.1", "react@>=16.4.1", "react@>=16.6.0", "react@>=16.8.0", "react@>=16.8.3", "react@>=16.8.6", "react@~16.8.6 || ~16.9.0 || ~16.11.0 || ~16.13.1 || ~17.0.1", "react@16 || 17", "react@16.0.0-alpha.6", "react@16.6.1":
   "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
   "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
   "version" "16.14.0"
@@ -6923,7 +6928,7 @@
   "resolved" "https://registry.npmjs.org/redux-thunk/-/redux-thunk-2.3.0.tgz"
   "version" "2.3.0"
 
-"redux@^4.0.1":
+"redux@^2.0.0 || ^3.0.0 || ^4.0.0-0", "redux@^3.0.0 || ^4.0.0", "redux@^4.0.1", "redux@>3.0.0":
   "integrity" "sha512-R7bAtSkk7nY6O/OYMVR9RiBI+XghjF9rlbl5806HJbQph0LJVHZrU5oaO4q70eUKiqMRqm4y07KLTlMZ2BlVmg=="
   "resolved" "https://registry.npmjs.org/redux/-/redux-4.0.1.tgz"
   "version" "4.0.1"
@@ -7072,7 +7077,7 @@
     "stealthy-require" "^1.1.0"
     "tough-cookie" ">=2.3.3"
 
-"request@^2.87.0":
+"request@^2.34", "request@^2.87.0":
   "integrity" "sha512-NAqBSrijGLZdM0WZNsInLJpkJokL72XYjUpnB0iwsRgxh7dB6COrHnTBNwN0E+lHDAJzu7kLAkDeY08z2/A0hg=="
   "resolved" "https://registry.npmjs.org/request/-/request-2.88.0.tgz"
   "version" "2.88.0"

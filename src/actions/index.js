@@ -1,4 +1,4 @@
 export {
   itemsFetchData,
   itemsFetchDataSuccess
-} from "../screens/KLINK/ITEMS/actions";
+} from "../screens/MAIN/ITEMS/actions";
