@@ -118,7 +118,8 @@ class ItemsForm extends Component {
           "original_title": this.props.data_items.original_title,
           "release_date": this.props.data_items.release_date,
           "overview": this.props.data_items.overview,
-          "homepage": this.props.data_items.homepage
+          "homepage": this.props.data_items.homepage,
+          "vote_average": this.props.data_items.vote_average.toString().charAt(0)
         }
         slides.push(data_items)
         this.setState({
@@ -180,7 +181,8 @@ class ItemsForm extends Component {
           "original_title": this.props.data_items.original_title,
           "release_date": this.props.data_items.release_date,
           "overview": this.props.data_items.overview,
-          "homepage": this.props.data_items.homepage
+          "homepage": this.props.data_items.homepage,
+          "vote_average": this.props.data_items.vote_average.toString().charAt(0)
         }
         
         slides.push(data_items)
@@ -274,7 +276,7 @@ class ItemsForm extends Component {
                           </View>
                         </View>
 
-                        {this.form_rating()}
+                        {this.form_rating(item.vote_average)}
 
                         <Content enableResetScrollToCoords={false}>
                         <View style={{width: "85%"}}>
@@ -385,9 +387,11 @@ class ItemsForm extends Component {
 
   
 
- form_rating()
+
+
+ form_rating(vote_average)
  {
-    var rate = this.props.data_items.vote_average.toString().charAt(0)
+    var rate = vote_average
 
     if(rate == "1")
     {
